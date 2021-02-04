@@ -3,3 +3,5 @@ This is my first change to text file one
 Edit 2: This is my file I am editing in branch 1
 branch 1 developer 1 working here
 
+branch 2 developer 2 working here
+
